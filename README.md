@@ -1,2 +1,2 @@
-# Has-Money
-PHP spending tracker
+# HAS Money
+PHP based personal accounting and spending tracker
